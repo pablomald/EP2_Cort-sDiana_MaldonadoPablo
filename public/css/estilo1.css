@@ -1,0 +1,8 @@
+#id_img{
+  width: 100 &#37;
+    height: 140%;
+    top:0;
+    left:0;
+    position:fixed;
+    z-index: -1;
+}
